@@ -1,0 +1,67 @@
+# The Score – Born For This
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:14.78] I'm checking my vital signs, drawing my battle lines
+[00:16.67] Going to war again
+[00:18.28] Feeling the rhythm inside of my chest
+[00:20.02] All I need is just a pen
+[00:21.58] I know I was born for this
+[00:25.18] I know I was born for this
+[00:29.06] Don't care for the critics, my words are like physics
+[00:31.10] A force that they can't stop
+[00:33.00] They just don't get it, I think they forget
+[00:34.77] I'm not done 'til I'm on top
+[00:36.44] I know I was born for this
+[00:39.99] I know I was born for this
+[00:44.26] I believe, I believe
+[00:46.11] We can write our story
+[00:47.88] I believe, I believe
+[00:49.77] We can be an army
+[00:51.76] We are the warriors who learned to love the pain
+[00:55.60] We come from different places but have the same name
+[00:59.26] 'Cause we were, 'cause we were, 'cause we were, 'cause we were
+[01:02.84] Born for this, we were born for this
+[01:06.61] We are the broken ones who chose to spark a flame
+[01:10.45] Watch as our fire rages our hearts are never tame
+[01:14.08] 'Cause we were, 'cause we were, 'cause we were, 'cause we were
+[01:17.61] Born for this, we were born for this
+[01:22.87] I've struggled for years and through all of the tears
+[01:25.02] I've faced the doubts I hide
+[01:26.80] I never gave into my fears deep within
+[01:28.64] 'Cause I heard my voice inside
+[01:30.26] I know I was born for this
+[01:33.78] I know I was born for this
+[01:37.89] I will never lose my voice
+[01:41.14] If I cut out all the noise
+[01:44.48] I know, I was born for this
+[01:48.56] I know, I was born for this
+[01:52.87] I believe, I believe
+[01:54.79] We can write our story
+[01:56.58] I believe, I believe
+[01:58.43] We can be an army
+[02:00.54] We are the warriors who learned to love the pain
+[02:04.19] We come from different places but have the same name
+[02:07.84] 'Cause we were, 'cause we were, 'cause we were, 'cause we were
+[02:11.42] Born for this, we were born for this
+[02:15.26] We are the broken ones who chose to spark a flame
+[02:19.06] Watch as our fire rages our hearts are never tame
+[02:22.77] 'Cause we were, 'cause we were, 'cause we were, 'cause we were
+[02:26.41] Born for this, we were born for this
+[02:44.00] These words that I write are for someone like me
+[02:46.02] To know you're not alone
+[02:47.89] The moves that you make, yeah, they come with mistakes
+[02:49.71] Don't ever lose your hope
+[02:51.21] Just know, you were born for this
+[02:54.89] Just know, you were born for this
+[03:01.21] We are the warriors who learned to love the pain
+[03:04.86] We come from different places but have the same name
+[03:08.58] 'Cause we were, 'cause we were, 'cause we were, 'cause we were
+[03:12.20] Born for this, we were born for this
+[03:15.98] We are the broken ones who chose to spark a flame
+[03:19.66] Watch as our fire rages our hearts are never tame
+[03:23.31] 'Cause we were, 'cause we were, 'cause we were, 'cause we were
+[03:26.92] Born for this, we were born for this
+[03:41.10] We were born for this, we were born for this
+```
