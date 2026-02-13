@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Born For This",
+  "base_artist": "The Score",
+  "createdAt": "2026-02-13T10:15:21.537991Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Born For This",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/01_Born_For_This_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Born For This (Live From Chicago)",
+      "artist": "Paramore",
+      "has_synced": false,
+      "path": "select/02_Born_For_This_(Live_From_Chicago)_Paramore.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Born For This [Live]",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/03_Born_For_This_[Live]_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Born for This",
+      "artist": "Royal Deluxe",
+      "has_synced": true,
+      "path": "select/04_Born_for_This_Royal_Deluxe.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Born For This",
+      "artist": "The Score",
+      "has_synced": true,
+      "path": "select/05_Born_For_This_The_Score.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Born for This",
+      "artist": "The Score",
+      "has_synced": true,
+      "path": "select/06_Born_for_This_The_Score.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Born For This",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/07_Born_For_This_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Born For This",
+      "artist": "Muzzy",
+      "has_synced": false,
+      "path": "select/08_Born_For_This_Muzzy.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Born For This",
+      "artist": "The Letter Black feat. Trevor McNevan",
+      "has_synced": true,
+      "path": "select/09_Born_For_This_The_Letter_Black_feat._Trevor_McNevan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Born For This",
+      "artist": "The Letter Black; Trevor Mcnevan",
+      "has_synced": true,
+      "path": "select/10_Born_For_This_The_Letter_Black;_Trevor_Mcnevan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Was Born for This",
+      "artist": "Austin Wintory",
+      "has_synced": true,
+      "path": "select/11_I_Was_Born_for_This_Austin_Wintory.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Born for This (Album Version)",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/12_Born_for_This_(Album_Version)_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Born for This",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/13_Born_for_This_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Born for This",
+      "artist": "Flatfoot 56",
+      "has_synced": true,
+      "path": "select/14_Born_for_This_Flatfoot_56.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Born for This",
+      "artist": "CRMNL",
+      "has_synced": false,
+      "path": "select/15_Born_for_This_CRMNL.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Born For This",
+      "artist": "CRMNL",
+      "has_synced": true,
+      "path": "select/16_Born_For_This_CRMNL.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Born For This",
+      "artist": "The Score",
+      "has_synced": false,
+      "path": "select/pl_01_Born_For_This_The_Score.txt"
+    }
+  ]
+}
